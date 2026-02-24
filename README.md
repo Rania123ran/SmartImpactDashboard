@@ -11,7 +11,17 @@ Smart Impact Dashboard is an intelligent decision-support system that helps orga
 The platform combines financial, environmental, HR, and customer metrics into a unified **Global Impact Score (0–100)** and provides forecasting and anomaly detection to support responsible decision-making.
 
 ---
+## 📸 Screenshots
 
+<p align="center">
+  <img src="screens/1.png" width="45%" />
+  <img src="screens/2.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="screens/3.png" width="45%" />
+  <img src="screens/4.png" width="45%" />
+</p>
 ## 🧠 Key Features
 
 ### 🎯 Global Impact Score
