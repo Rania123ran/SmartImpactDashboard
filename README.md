@@ -41,21 +41,6 @@ The platform combines financial, environmental, HR, and customer metrics into a 
 
 ---
 
-## 🏗 Project Structure
-  SmartImpactDashboard/
-│
-├── app.py                  # Streamlit dashboard UI
-├── score_engine.py         # Composite scoring logic
-├── anomaly_detector.py     # ML anomaly detection
-├── forecaster.py           # KPI & score forecasting
-├── data_generator.py       # Simulated KPI data
-├── simulated_kpi_data_large.csv
-├── requirements.txt
-└── README.md
-
-
----
-
 ## 🛠 Tech Stack
 
 - Python
